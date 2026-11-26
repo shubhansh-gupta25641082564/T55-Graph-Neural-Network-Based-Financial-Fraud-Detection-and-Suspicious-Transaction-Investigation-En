@@ -402,11 +402,9 @@ The diagram describes the alert and case lifecycle. A model alert is a request f
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\state_transition_daigram.png" alt="Figure 1. Proposed alert and investigation states." width="92%" />
+![*Figure 1. Proposed alert and investigation states.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\state_transition_daigram.png)
 
 </div>
-
-*Figure 1. Proposed alert and investigation states.*
 
 ## 🔁 12.2 Sequence Diagram
 
@@ -414,11 +412,9 @@ The sequence begins when the API receives a scoring or review request. Source re
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\sequence_daigram.png" alt="Figure 2. Sequence of scoring, path retrieval and evidence generation." width="92%" />
+![*Figure 2. Sequence of scoring, path retrieval and evidence generation.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\sequence_daigram.png)
 
 </div>
-
-*Figure 2. Sequence of scoring, path retrieval and evidence generation.*
 
 ## 👥 12.3 Use Case Diagram
 
@@ -426,11 +422,9 @@ The investigator reviews alerts and cases; a model administrator checks model pe
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\use_case_daigram.png" alt="Figure 3. Principal users and supported use cases." width="92%" />
+![*Figure 3. Principal users and supported use cases.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\use_case_daigram.png)
 
 </div>
-
-*Figure 3. Principal users and supported use cases.*
 
 ## 🔃 12.4 Data Flow Diagram
 
@@ -438,11 +432,9 @@ Validated source data feeds the canonical store and graph builder. The GNN and p
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\data_flow_daigram.png" alt="Figure 4. Level-1 movement of data through the system." width="92%" />
+![*Figure 4. Level-1 movement of data through the system.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\data_flow_daigram.png)
 
 </div>
-
-*Figure 4. Level-1 movement of data through the system.*
 
 ## 🗂️ 12.5 ER Diagram
 
@@ -450,21 +442,17 @@ The core schema separates source financial entities from alerts, cases and evide
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\er_daigram.png" alt="Figure 5. Entity-relationship view of the main records." width="92%" />
+![*Figure 5. Entity-relationship view of the main records.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\er_daigram.png)
 
 </div>
-
-*Figure 5. Entity-relationship view of the main records.*
 
 ## 🧭 12.6 Technical Workflow Diagram
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\technical_workflow_daigram.png" alt="Figure 6. End-to-end development and investigation workflow." width="92%" />
+![*Figure 6. End-to-end development and investigation workflow.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\technical_workflow_daigram.png)
 
 </div>
-
-*Figure 6. End-to-end development and investigation workflow.*
 
 ## 🏗️ 12.7 Work Architecture Diagram
 
@@ -472,11 +460,9 @@ The architecture keeps the model, graph search, canonical database and interface
 
 <div align="center">
 
-<img src="C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\work_architecture_daigram.png" alt="Figure 7. Component-level work architecture." width="92%" />
+![*Figure 7. Component-level work architecture.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\work_architecture_daigram.png)
 
 </div>
-
-*Figure 7. Component-level work architecture.*
 
 ---
 
