@@ -402,7 +402,7 @@ The diagram describes the alert and case lifecycle. A model alert is a request f
 
 <div align="center">
 
-![*Figure 1. Proposed alert and investigation states.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\state_transition_daigram.png)
+![*Figure 1. Proposed alert and investigation states.*](state_transition_daigram.png)
 
 </div>
 
@@ -412,7 +412,7 @@ The sequence begins when the API receives a scoring or review request. Source re
 
 <div align="center">
 
-![*Figure 2. Sequence of scoring, path retrieval and evidence generation.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\sequence_daigram.png)
+![*Figure 2. Sequence of scoring, path retrieval and evidence generation.*](sequence_daigram.png)
 
 </div>
 
@@ -422,7 +422,7 @@ The investigator reviews alerts and cases; a model administrator checks model pe
 
 <div align="center">
 
-![*Figure 3. Principal users and supported use cases.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\use_case_daigram.png)
+![*Figure 3. Principal users and supported use cases.*](use_case_daigram.png)
 
 </div>
 
@@ -432,7 +432,7 @@ Validated source data feeds the canonical store and graph builder. The GNN and p
 
 <div align="center">
 
-![*Figure 4. Level-1 movement of data through the system.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\data_flow_daigram.png)
+![*Figure 4. Level-1 movement of data through the system.*](data_flow_daigram.png)
 
 </div>
 
@@ -442,7 +442,7 @@ The core schema separates source financial entities from alerts, cases and evide
 
 <div align="center">
 
-![*Figure 5. Entity-relationship view of the main records.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\er_daigram.png)
+![*Figure 5. Entity-relationship view of the main records.*](er_daigram.png)
 
 </div>
 
@@ -450,7 +450,7 @@ The core schema separates source financial entities from alerts, cases and evide
 
 <div align="center">
 
-![*Figure 6. End-to-end development and investigation workflow.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\technical_workflow_daigram.png)
+![*Figure 6. End-to-end development and investigation workflow.*](technical_workflow_daigram.png)
 
 </div>
 
@@ -460,7 +460,7 @@ The architecture keeps the model, graph search, canonical database and interface
 
 <div align="center">
 
-![*Figure 7. Component-level work architecture.*](C:\Users\rachi\T55-Graph-Neural-Network-Based-Financial-Fraud-Detection-and-Suspicious-Transaction-Investigation-En\work_architecture_daigram.png)
+![*Figure 7. Component-level work architecture.*](work_architecture_daigram.png)
 
 </div>
 
